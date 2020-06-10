@@ -1,6 +1,6 @@
-# <center> Extracting system folder from system.new.dat.br </center>
+# <center> Extract system folder from system.new.dat.br or system.new.dat </center>
 
-Copy all the files in this branch to where system.new.dat.br or system.new.dat and follow the guide.
+Copy all the files (sda2img) in this branch to where system.new.dat.br or system.new.dat are extracted. Then follow the guide.
 
 <b> Supports: </b>
 1. system.new.dat.br
@@ -30,11 +30,11 @@ Copy all the files in this branch to where system.new.dat.br or system.new.dat a
 
 
 
-# Gaining Permission Of Extracted `system` folder
+# Gaining Permission Of Extracted system folder
 
 1.  sudo chown -R USERNAME:USERNAME ~/path/of/mounted/image
 
-{Example:} `sudo chown -R hardik:hardik ~/Documents/ROM/final/Extracted/output`
+{Eg:} `sudo chown -R hardik:hardik ~/Documents/ROM/final/Extracted/output`
 
 
 -_- Booyah! You got the system folder 
