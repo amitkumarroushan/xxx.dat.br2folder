@@ -1,6 +1,6 @@
 # <center> Extract system folder from system.new.dat.br or system.new.dat </center>
 
-Copy all the files (sda2img) in this branch to where system.new.dat.br or system.new.dat are extracted. Then follow the guide.
+Copy all the files (sda2img) in this branch to where system.new.dat.br or system.new.dat are extracted. Then follow the guide at each step. If you wanna extract system.new.dat then start from Extract system.new.dat unless start from beginning.
 
 <b> Supports: </b>
 1. system.new.dat.br
