@@ -37,8 +37,21 @@ Copy all the files (sda2img) in this branch to where system.new.dat.br or system
 {Eg:} `sudo chown -R hardik:hardik ~/Documents/ROM/final/Extracted/output`
 
 
--_- Booyah! You got the system folder 
+-_- Booyah! You got the system folder.Now Copy all the files from output folder to any other place.
 
+
+
+# Deleting Output Folder
+
+Run these commands where the output folder exists.
+
+
+1. `sudo umount output`
+
+2. `sudo rm -rf output`
+
+
+<b><center> Done! Thank Me Later </center></b>
 
 
 # Credits
